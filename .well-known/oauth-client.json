@@ -1,7 +1,7 @@
 {
   "client_id": "https://lisamurphy-ltl.github.io/amped-client-metadata/.well-known/oauth-client.json",
   "client_name": "Sergio (Limited to Limitless SEO agent)",
-  "client_uri": "https://amped.bio/limitedtolimitless",
+  "client_uri": "https://lisamurphy-ltl.github.io/amped-client-metadata/",
   "redirect_uris": [
     "https://lisamurphy-ltl.github.io/amped-client-metadata/"
   ],
