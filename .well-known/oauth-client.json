@@ -1,0 +1,11 @@
+{
+  "client_name": "Sergio (Limited to Limitless SEO agent)",
+  "client_uri": "https://amped.bio/limitedtolimitless",
+  "token_endpoint_auth_method": "none",
+  "grant_types": [
+    "urn:ietf:params:oauth:grant-type:device_code",
+    "refresh_token"
+  ],
+  "response_types": [],
+  "scope": "openid profile offline_access mcp:read page:write content:write"
+}
