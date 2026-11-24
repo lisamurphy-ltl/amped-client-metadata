@@ -2,6 +2,9 @@
   "client_id": "https://lisamurphy-ltl.github.io/amped-client-metadata/.well-known/oauth-client.json",
   "client_name": "Sergio (Limited to Limitless SEO agent)",
   "client_uri": "https://amped.bio/limitedtolimitless",
+  "redirect_uris": [
+    "https://lisamurphy-ltl.github.io/amped-client-metadata/"
+  ],
   "token_endpoint_auth_method": "none",
   "grant_types": [
     "urn:ietf:params:oauth:grant-type:device_code",
